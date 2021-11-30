@@ -1084,3 +1084,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.btn {
+  background-color: #534e4d;
+  color: white;
+}
